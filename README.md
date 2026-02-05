@@ -3,7 +3,7 @@
 
 # GameCaster AI: PlayByPlay
 
-**Your AI-powered gaming commentator that turns every match into a broadcast-worthy experience.**
+**Turn your gameplay into a live broadcast with real-time AI commentary that feels the hype with you.**
 
 </div>
 
