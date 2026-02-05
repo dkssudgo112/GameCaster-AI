@@ -5,6 +5,7 @@
 
 **Turn your gameplay into a live broadcast with real-time AI commentary that feels the hype with you.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-green?style=for-the-badge&logo=googlechrome)](https://gamecaster-ai-448811452626.us-west1.run.app/)
 [![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-c7f6w-JbgQ)
 [![Try it](https://img.shields.io/badge/Try_it-Google_AI_Studio-blue?style=for-the-badge&logo=google)](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221u3-F8lx67uBZqcIBUaj_EMqBbdZCXul-%22%5D,%22action%22:%22open%22,%22userId%22:%22101773477608813701846%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
