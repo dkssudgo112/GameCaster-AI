@@ -25,12 +25,12 @@ GameCaster AI watches your screen in real-time and delivers live voice commentar
 <br><em>Choose your caster style</em>
 </figure>
 <figure style="display:inline-block; width:32%; text-align:center;">
-<img src="./casterai2.png" width="100%" alt="Live Casting" />
-<br><em>Live AI commentary in action</em>
+<img src="./casterai2.png" width="100%" alt="Screen Share Setup" />
+<br><em>Setting up screen share</em>
 </figure>
 <figure style="display:inline-block; width:32%; text-align:center;">
-<img src="./casterai3.png" width="100%" alt="Result Report" />
-<br><em>Post-game analysis report</em>
+<img src="./casterai3.png" width="100%" alt="Live Casting" />
+<br><em>Live AI commentary in action</em>
 </figure>
 </div>
 
