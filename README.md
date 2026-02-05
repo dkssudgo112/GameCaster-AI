@@ -5,6 +5,8 @@
 
 **Turn your gameplay into a live broadcast with real-time AI commentary that feels the hype with you.**
 
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-c7f6w-JbgQ)
+
 </div>
 
 ## About the Project
