@@ -20,9 +20,18 @@ So I built myself an awesome friend who never stops casting—**GameCaster AI**,
 GameCaster AI watches your screen in real-time and delivers live voice commentary, just like a professional esports caster. Choose your caster style—**Pro**, **Hype**, **Friend**, or **Analytic**—and let the AI turn your solo grind into a broadcast-worthy experience. After the match, it even generates a personalized summary with highlights and play style analysis.
 
 <div align="center">
-<img src="./casterai1.png" width="32%" alt="Home Screen" />
-<img src="./casterai2.png" width="32%" alt="Live Casting" />
-<img src="./casterai3.png" width="32%" alt="Result Report" />
+<figure style="display:inline-block; width:32%; text-align:center;">
+<img src="./casterai1.png" width="100%" alt="Home Screen" />
+<br><em>Choose your caster style</em>
+</figure>
+<figure style="display:inline-block; width:32%; text-align:center;">
+<img src="./casterai2.png" width="100%" alt="Live Casting" />
+<br><em>Live AI commentary in action</em>
+</figure>
+<figure style="display:inline-block; width:32%; text-align:center;">
+<img src="./casterai3.png" width="100%" alt="Result Report" />
+<br><em>Post-game analysis report</em>
+</figure>
 </div>
 
 ### How I Built It (Gemini API Usage)
