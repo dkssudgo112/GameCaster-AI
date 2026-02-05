@@ -1,0 +1,9 @@
+{
+  "name": "GameCaster AI",
+  "description": "An interactive AI esports commentator that provides real-time play-by-play commentary for your gameplay.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
