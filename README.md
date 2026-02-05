@@ -69,3 +69,20 @@ This project is powered **entirely by Gemini API**:
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Testing Instructions
+
+1. **Select Caster Style**: Choose your preferred commentary style—**Pro**, **Hype**, **Friend**, or **Analytic**. Adjust the **Hype Level** slider and toggle **Subtitles** if desired.
+
+2. **Set Up Screen Share**: Click **"SELECT SCREEN TO SHARE"** and choose your game window or entire screen.
+   > ⚠️ **Important**: You **must allow microphone and audio permissions** when prompted. A microphone is required for the AI to start casting.
+
+3. **Start Casting**: Once the preview looks good, click **"START CASTING"**. Play your game normally—the AI will commentate in real-time. Speak into your microphone to interact with the AI caster.
+
+4. **Live Features**:
+   - 🔇 **Mute/Unmute**: Toggle AI audio output
+   - ⚡ **POKE AI**: Force the AI to speak if it goes silent
+   - 📋 **LOGS**: View debug logs for troubleshooting
+   - 🔖 **SAVE**: Bookmark a highlight moment
+
+5. **End Session**: Click **"STOP CASTING"** to finish. The AI will generate a **post-game report** with your play style analysis and highlights.
